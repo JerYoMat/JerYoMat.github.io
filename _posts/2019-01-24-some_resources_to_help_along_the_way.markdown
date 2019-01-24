@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Some Resources To Help Along The Way"
-date:       2019-01-24 20:52:38 +0000
+date:       2019-01-24 15:52:39 -0500
 permalink:  some_resources_to_help_along_the_way
 ---
 
