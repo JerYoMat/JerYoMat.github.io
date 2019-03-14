@@ -30,7 +30,7 @@ $('li').each(function() {
 });
 
 ```
-arrow syntax refactor that breaks:
+Arrow syntax refactor that breaks:
 ```
 $('li').each(() => {
   $(this).click((evt) => {
