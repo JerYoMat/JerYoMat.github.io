@@ -7,7 +7,7 @@ permalink:  what_i_got_out_of_having_a_professional_review_my_code
 
 
 
-After writing the initial code for my Rails-JS project, I was pretty happy with myself. I’d incorporated fetch, async-await and the application wasn’t breaking. It wasn’t until I had a friend  that has been working professionally with Javascript for five years review my code brought me down a peg or two.
+After writing the initial code for my Rails-JS project, I was pretty happy with myself. I’d incorporated fetch, async-await and the application wasn’t breaking. When a friend that has been working professionally with Javascript for five years reviewed my code, my confidence took a hit. 
 
 **Here are some of the takeaways:**
 
