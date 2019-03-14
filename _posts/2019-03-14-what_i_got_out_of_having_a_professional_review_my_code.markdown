@@ -54,7 +54,7 @@ $('li').each((index, val) => {
 
 **Semicolons - Use them or lose them**
 
-If someone is reviewing your code, they are judging you whether you want them to or not.  Being haphazard with semicolon insertion makes you look sloppy.  Some people subscribe to not using them at all.  If you're going to be one of those people, don't use them. 
+If someone is reviewing your code, they are judging you whether you want them to or not.  Being haphazard with semicolon insertion makes you look sloppy.
 
 
 **Extract strings as separate variables when possible**
