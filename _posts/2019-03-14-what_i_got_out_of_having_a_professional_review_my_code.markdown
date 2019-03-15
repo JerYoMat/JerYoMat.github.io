@@ -59,7 +59,7 @@ If someone is reviewing your code, they are judging you whether you want them to
 
 **Extract strings as separate variables when possible**
 
-When making API calls, you should extract strings as separate variables. 
+When possible, keep constructing your string separate from the function.  
 
 For example:
 ```
