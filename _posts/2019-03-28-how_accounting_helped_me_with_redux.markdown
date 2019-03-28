@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "How Accounting Helped Me With Redux"
-date:       2019-03-28 07:33:23 +0000
+date:       2019-03-28 03:33:24 -0400
 permalink:  how_accounting_helped_me_with_redux
 ---
 
