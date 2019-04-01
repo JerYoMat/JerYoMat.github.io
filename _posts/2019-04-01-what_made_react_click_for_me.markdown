@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "What Made React Click for Me"
-date:       2019-04-01 17:49:53 +0000
+date:       2019-04-01 13:49:53 -0400
 permalink:  what_made_react_click_for_me
 ---
 
